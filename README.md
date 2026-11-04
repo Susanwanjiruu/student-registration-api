@@ -1,6 +1,6 @@
 # Student Registration API
 
-	A FastAPI application for managing student, teacher, and course records using SQLite.
+A FastAPI application for managing student, teacher, and course records using SQLite.
 
 ## Project structure
 
